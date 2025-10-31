@@ -5,6 +5,7 @@ import { getMessages, getTranslations } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { Metadata } from "next";
 import { pretendard } from "../fonts/fonts";
+import Header from "@/components/layout/Header";
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("RootMetaData");
@@ -33,8 +34,11 @@ export default async function RootLayout({
   const messages = await getMessages();
   return (
     <html lang={locale}>
-      <body className={`${pretendard.className}`}>
+      <body
+        className={`w-full min-h-screen bg-gray-100  ${pretendard.className}`}
+      >
         <NextIntlClientProvider locale={locale} messages={messages}>
+          <Header />
           <main>{children}</main>
         </NextIntlClientProvider>
       </body>

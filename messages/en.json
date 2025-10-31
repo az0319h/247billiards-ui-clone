@@ -1,8 +1,17 @@
 {
   "RootMetaData": {
-    "description": "This project is a non-commercial clone of the 247 website created for portfolio and learning purposes. It recreates the luxury billiard tables, ping-pong tables, and premium dumbbells product experience, focusing on high-end furniture aesthetics, interactive UI, and Next.js + Tailwind CSS development practice. All rights belong to the original brand."
+    "description": "This project is a non-commercial clone portfolio inspired by the 247 website. It recreates the experience of high-end billiard tables, ping-pong tables, and premium dumbbells to demonstrate luxury furniture-style UI and interactive web development skills using Next.js and Tailwind CSS. All rights to the original brand belong to the brand owner."
   },
   "HomePage": {
     "title": "Welcome to the 247 Clone Project"
+  },
+  "Header": {
+    "logoAlt": "Site Logo",
+    "menuOpen": "Open Menu",
+    "collection": "COLLECTION",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "projects": "PROJECTS",
+    "languageSwitcher": "Change Language"
   }
 }

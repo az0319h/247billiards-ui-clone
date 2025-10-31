@@ -2,6 +2,7 @@
 
 import { usePathname, useRouter } from "@/i18n/routing";
 import { useLocale } from "next-intl";
+import { RxDividerVertical } from "react-icons/rx";
 
 type Locale = "en" | "ko";
 
@@ -16,11 +17,11 @@ export default function LocaleSwitcher() {
   };
 
   return (
-    <div>
+    <div className="flex gap-2.5 items-center [&_button]:text-gray-200 [&_button]:text-16-regular">
       <button onClick={() => switchLocale("en")} disabled={locale === "en"}>
         EN
       </button>
-      <span>/</span>
+      <RxDividerVertical />
       <button onClick={() => switchLocale("ko")} disabled={locale === "ko"}>
         KO
       </button>
