@@ -23,8 +23,10 @@
   /* === gray === */
   --color-gray-100: #e8e8e8;
   --color-gray-200: #858585;
+
   /* === line === */
-  --color-line-100: #4e4e4e66;
+  --color-line-100: #4b4b4b;
+  --color-line-200: #4e4e4e66;
 
   /* === hover === */
   --color-hover-100: #cfcfcf;
