@@ -4,5 +4,14 @@
   },
   "HomePage": {
     "title": "247 클론 프로젝트에 오신 것을 환영합니다"
+  },
+  "Header": {
+    "logoAlt": "사이트 로고",
+    "menuOpen": "메뉴 열기",
+    "collection": "컬렉션",
+    "about": "소개",
+    "contact": "문의",
+    "projects": "프로젝트",
+    "languageSwitcher": "언어 변경"
   }
 }

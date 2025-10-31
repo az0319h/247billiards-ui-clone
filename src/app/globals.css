@@ -17,14 +17,12 @@
   --color-black-300: #161616;
   --color-black-400: #0000008a;
 
-  /* === gray === */
-  --color-gray-100: #e2e2e2;
-  --color-gray-200: #858585;
-  --color-gray-300: #6d6d6d;
-  --color-gray-400: #b9b9b9;
-  --color-gray-500: #ffffffcc;
-  --color-gray-600: #ffffff40;
+  /* === white === */
+  --color-white-100: #ffffffcc;
 
+  /* === gray === */
+  --color-gray-100: #e8e8e8;
+  --color-gray-200: #858585;
   /* === line === */
   --color-line-100: #4e4e4e66;
 
@@ -334,8 +332,6 @@
 /* Default */
 html,
 body {
-  background-color: var(--color-white);
-  color: var(--color-black);
 }
 
 button,
