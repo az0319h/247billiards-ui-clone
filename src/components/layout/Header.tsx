@@ -29,8 +29,8 @@ export default function Header() {
 
   return (
     <>
-      <header className="w-full fixed top-0 left-0 z-50">
-        <div className="lg:flex lg:justify-between lg:items-center px-5 py-4 sm:px-7.5 sm:py-5 lg:py-4">
+      <header className="w-full fixed top-0 left-0 z-50 ">
+        <div className="max-w-420 mx-auto lg:flex lg:justify-between lg:items-center  px-5 py-4 sm:px-7.5 sm:py-5 lg:py-4">
           <Link href="/" className="block w-15 lg:w-20">
             <Image src={logo} alt={t("logoAlt")} />
           </Link>
