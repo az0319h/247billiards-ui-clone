@@ -18,5 +18,10 @@
     "contact": "CONTACT",
     "projects": "PROJECTS",
     "languageSwitcher": "Change Language"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "message": "We are sorry! The page you are looking for doesn't exist.",
+    "backHome": "BACK TO HOME"
   }
 }
