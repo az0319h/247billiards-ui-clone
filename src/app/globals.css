@@ -26,6 +26,7 @@
   --color-gray-100: #e8e8e8;
   --color-gray-200: #858585;
   --color-gray-300: #7c7c7c;
+  --color-gray-400: #d6d6d6;
 
   /* === line === */
   --color-line-100: #4b4b4b;
@@ -37,6 +38,7 @@
 
   /* === primary === */
   --color-primary-100: #ff7543;
+  --color-primary-200: #1e35e5;
 }
 
 /* 10px */
