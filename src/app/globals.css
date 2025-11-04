@@ -335,6 +335,7 @@
 /* Default */
 html,
 body {
+  word-break: keep-all;
 }
 
 button,
