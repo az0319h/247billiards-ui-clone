@@ -18,5 +18,10 @@
     "contact": "문의",
     "projects": "프로젝트",
     "languageSwitcher": "언어 변경"
+  },
+  "NotFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "message": "죄송합니다! 요청하신 페이지를 찾을 수 없습니다.",
+    "backHome": "홈으로 돌아가기"
   }
 }

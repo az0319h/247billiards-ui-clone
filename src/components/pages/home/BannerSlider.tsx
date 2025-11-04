@@ -59,7 +59,7 @@ export default function BannerSlider() {
   };
 
   return (
-    <div className="relative w-full pt-8 sm:pt-12  flex flex-col items-center justify-center overflow-hidden">
+    <div className="relative w-full pt-8 sm:pt-12 md:pb-12 lg:pb-0  flex flex-col items-center justify-center overflow-hidden">
       {/* 슬라이더 컨테이너 */}
       <div className="relative w-full max-w-247.5  md:aspect-auto md:h-[70vh]  aspect-square mx-auto">
         {/* 슬라이더 래퍼 */}
