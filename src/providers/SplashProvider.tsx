@@ -2,7 +2,11 @@
 
 import { useState, useEffect } from "react";
 
-export default function Providers({ children }: { children: React.ReactNode }) {
+export default function SplashProvider({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   const [loaded, setLoaded] = useState(false);
   const [minTimePassed, setMinTimePassed] = useState(false);
 
