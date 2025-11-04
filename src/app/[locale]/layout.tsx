@@ -6,6 +6,7 @@ import { routing } from "@/i18n/routing";
 import { Metadata } from "next";
 import { pretendard } from "../fonts/fonts";
 import Header from "@/components/layout/Header";
+import Providers from "@/providers/providers";
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("RootMetaData");
@@ -37,10 +38,12 @@ export default async function RootLayout({
       <body
         className={`w-full min-h-screen bg-gray-100  ${pretendard.className}`}
       >
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          <Header />
-          <main className="md:pt-[16vh] pt-25">{children}</main>
-        </NextIntlClientProvider>
+        <Providers>
+          <NextIntlClientProvider locale={locale} messages={messages}>
+            <Header />
+            <main className="md:pt-[16vh] pt-25">{children}</main>
+          </NextIntlClientProvider>
+        </Providers>
       </body>
     </html>
   );
