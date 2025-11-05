@@ -8,6 +8,18 @@
       "lead": "Crafting exclusive lifestyle products that inspire.",
       "slogan": "Simply Extraordinary",
       "since": "Since 2012"
+    },
+    "lifestyleHero": {
+      "bigTitle": ["PREMIUM", "LIFE—", "STYLE", "PRODUCTS"],
+      "subheading": "Luxury pool tables, ping-pong tables and dumbbells for your exclusive lifestyle.",
+      "pillars": [
+        "Selected Materials",
+        "Sophisticated Design",
+        "Timeless Elegance",
+        "Precise Manufacturing",
+        "Durable Performance",
+        "Made in Austria"
+      ]
     }
   },
   "Header": {
