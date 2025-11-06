@@ -7,7 +7,7 @@ export default async function TestimonialsSection() {
   const title = t("testimonials.title");
 
   return (
-    <SectionLayout>
+    <SectionLayout paddingTop="pt-[15vh]">
       <div className="relative">
         <h2 className="text-30-regular mb-24 sm:mb-10 sm:text-[7rem] sm:leading-[7rem]">
           {title}
