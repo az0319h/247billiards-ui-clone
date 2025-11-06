@@ -1,3 +1,4 @@
+import DesignPitchSection from "@/components/pages/home/DesignPitchSection";
 import LifestyleHero from "@/components/pages/home/LifestyleHero";
 import TestimonialsSection from "@/components/pages/home/TestimonialsSection";
 import ValueHeroSection from "@/components/pages/home/ValueHeroSection";
@@ -8,6 +9,7 @@ export default async function Home() {
       <ValueHeroSection />
       <LifestyleHero />
       <TestimonialsSection />
+      <DesignPitchSection />
     </>
   );
 }
