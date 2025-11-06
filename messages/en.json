@@ -20,6 +20,31 @@
         "Durable Performance",
         "Made in Austria"
       ]
+    },
+    "testimonials": {
+      "title": "Customer Testimonials",
+      "items": [
+        {
+          "text": "I’ve been using the pool table from 247 for four years now and am still very happy with it. I was particularly impressed by the service. The tables are delivered on a worldwide basis, and a specially trained fitter assembled the pool table in my home. I can definitely recommend the pool tables from 247Billiards!",
+          "author": "KELVIN CHAANG",
+          "location": "Kuala Lumpur - Malaysia"
+        },
+        {
+          "text": "I have not seen anything quite like this!! On a jet plane from Austria, the pool table arrived to its cottage home accompanied by its guardian installers – Michael and Gitano. With its modern, minimal design, innovative material concept and unmistakable signature look inspired by Porsche, it’s here, level and ready for a few blood tests, bottom spins and cannons.",
+          "author": "WENDY SNELGROVE",
+          "location": "Cabin Couture by WLS Design - Toronto/Canada"
+        },
+        {
+          "text": "We’ve treated ourselves to a sleek black pool table from 247Billiards for our lounge on the 13th floor of the Schwabinger Tor skyscraper in Munich. It had to be delivered in lots of individual parts and assembled with great care – 247Billiards did the job to perfection! The Porsche Design pool table now stands in the center of the room overlooking Munich and is an instant eye-catcher for staff and guests. Many thanks to 247Billiards!",
+          "author": "HARALD ADELHARDT",
+          "location": "Deutsche Finance Group - Munich, Germany"
+        },
+        {
+          "text": "We purchased the billiard table back in 2015. 247Billiards’ staff are very professional. The delivery and installation time went very efficiently.",
+          "author": "EDGARD BARONA",
+          "location": "Miami - USA"
+        }
+      ]
     }
   },
   "Header": {
