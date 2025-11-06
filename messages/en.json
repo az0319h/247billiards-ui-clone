@@ -50,6 +50,26 @@
       "title": "Clean, minimalist and functional design at the highest level.",
       "subtitle": "Customizable to fit your exclusive private interiors and new work spaces.",
       "cta": "Configure your pool table"
+    },
+    "collectionPreview": {
+      "items": [
+        {
+          "title": "THE 247 BILLIARD TABLE",
+          "subtitle": "Billiards",
+          "href": "/collection/billiards"
+        },
+        {
+          "title": "THE 247 PING PONG TABLE",
+          "subtitle": "Table Tennis",
+          "href": "/collection/ping-pong"
+        },
+        {
+          "title": "THE 247 DUMBBELL SET",
+          "subtitle": "Workout",
+          "href": "/collection/dumbbells"
+        }
+      ],
+      "ctaLabel": "Discover Our Collection"
     }
   },
   "Header": {

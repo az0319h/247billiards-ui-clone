@@ -50,6 +50,26 @@
       "title": "최고 수준의 깔끔하고 미니멀하며 기능적인 디자인.",
       "subtitle": "프라이빗 인테리어와 새로운 업무 공간에 맞춰 커스터마이즈됩니다.",
       "cta": "당구대 구성하기"
+    },
+    "collectionPreview": {
+      "items": [
+        {
+          "title": "247 빌리어드 테이블",
+          "subtitle": "당구대",
+          "href": "/collection/billiards"
+        },
+        {
+          "title": "247 핑퐁 테이블",
+          "subtitle": "탁구대",
+          "href": "/collection/ping-pong"
+        },
+        {
+          "title": "247 덤벨 세트",
+          "subtitle": "운동 기구",
+          "href": "/collection/dumbbells"
+        }
+      ],
+      "ctaLabel": "컬렉션 둘러보기"
     }
   },
   "Header": {

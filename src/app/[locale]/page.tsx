@@ -1,3 +1,5 @@
+import SectionLine from "@/components/common/SectionLine";
+import CollectionPreviewSection from "@/components/pages/home/CollectionPreviewSection";
 import DesignPitchSection from "@/components/pages/home/DesignPitchSection";
 import LifestyleHero from "@/components/pages/home/LifestyleHero";
 import TestimonialsSection from "@/components/pages/home/TestimonialsSection";
@@ -10,6 +12,10 @@ export default async function Home() {
       <LifestyleHero />
       <TestimonialsSection />
       <DesignPitchSection />
+      <SectionLine />
+      <CollectionPreviewSection />
+      <SectionLine height={0} />
+      About
     </>
   );
 }
