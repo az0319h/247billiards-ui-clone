@@ -72,6 +72,7 @@
       "ctaLabel": "Discover Our Collection"
     },
     "aboutUs": {
+      "title": "About—us",
       "missionTitle": "Our mission",
       "intro": "As an Austrian manufacturer with local production we strive to craft outstanding lifestyle experiences.",
       "paragraph1": "Since the beginning, our passion has been to create exclusive lifestyle products that inspire. Every product is manufactured with the utmost care – piece by piece.",
@@ -94,6 +95,12 @@
           "label": "configuration options"
         }
       }
+    },
+    "studioCollabShowcase": {
+      "headline": "Designed with Studio F. A. Porsche",
+      "productTitle": "PORSCHE DESIGN POOL TABLE",
+      "description": "Our first product was created in collaboration with <highlight>Studio F. A. Porsche</highlight> in Zell am See, Austria — embodying the studio’s purist and timeless design philosophy.",
+      "cta": "Find Out More"
     }
   },
   "Header": {
