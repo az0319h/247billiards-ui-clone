@@ -101,6 +101,10 @@
       "productTitle": "PORSCHE DESIGN POOL TABLE",
       "description": "Our first product was created in collaboration with <highlight>Studio F. A. Porsche</highlight> in Zell am See, Austria — embodying the studio’s purist and timeless design philosophy.",
       "cta": "Find Out More"
+    },
+    "latestNews": {
+      "title": "Latest news",
+      "cta": "More"
     }
   },
   "Header": {

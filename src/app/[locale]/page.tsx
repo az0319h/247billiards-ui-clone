@@ -3,6 +3,7 @@ import SectionLayout from "@/components/layout/SectionLayout";
 import AboutUsSection from "@/components/pages/home/AboutUsSection";
 import CollectionPreviewSection from "@/components/pages/home/CollectionPreviewSection";
 import DesignPitchSection from "@/components/pages/home/DesignPitchSection";
+import LatestNewsSection from "@/components/pages/home/LatestNewsSection";
 import LifestyleHero from "@/components/pages/home/LifestyleHero";
 import StudioCollabShowcaseSection from "@/components/pages/home/StudioCollabShowcaseSection";
 import TestimonialsSection from "@/components/pages/home/TestimonialsSection";
@@ -30,6 +31,7 @@ export default async function Home() {
       <SectionLine />
       <StudioCollabShowcaseSection />
       <SectionLine height={0} />
+      <LatestNewsSection />
     </>
   );
 }

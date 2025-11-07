@@ -89,6 +89,10 @@
       "productTitle": "포르쉐 디자인 당구대",
       "description": "우리의 첫 번째 제품은 오스트리아 젤 암 제이에 위치한 <highlight>Studio F. A. Porsche</highlight>와 협업하여 제작되었습니다. 이 제품은 스튜디오의 순수하고 시대를 초월한 디자인 철학을 완벽히 구현합니다.",
       "cta": "자세히 보기"
+    },
+    "latestNews": {
+      "title": "최신 소식",
+      "cta": "더 보기"
     }
   },
   "Header": {
