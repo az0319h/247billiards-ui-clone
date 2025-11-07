@@ -70,6 +70,30 @@
         }
       ],
       "ctaLabel": "Discover Our Collection"
+    },
+    "aboutUs": {
+      "missionTitle": "Our mission",
+      "intro": "As an Austrian manufacturer with local production we strive to craft outstanding lifestyle experiences.",
+      "paragraph1": "Since the beginning, our passion has been to create exclusive lifestyle products that inspire. Every product is manufactured with the utmost care – piece by piece.",
+      "paragraph2": "Maximum precision in processing as well as the use of carefully selected materials are our priorities. 247 Billiards stands for highest quality “Made in Austria”.",
+      "stats": {
+        "years": {
+          "value": "12",
+          "label": "years of experience"
+        },
+        "employees": {
+          "value": "10",
+          "label": "employees"
+        },
+        "projects": {
+          "value": "320",
+          "label": "projects"
+        },
+        "options": {
+          "value": "200",
+          "label": "configuration options"
+        }
+      }
     }
   },
   "Header": {
