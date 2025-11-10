@@ -116,6 +116,22 @@
     "projects": "PROJECTS",
     "languageSwitcher": "Change Language"
   },
+  "Footer": {
+    "brand": "247 BILLIARDS",
+    "address1": "Maisstraße 12/2,",
+    "address2": "4600 Wels, Austria",
+    "address3": "Austria",
+    "contact": "Contact",
+    "phone": "+12 345 155 66 999",
+    "email": "example@example.com",
+    "legal": "Legal",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy",
+    "language": "Language",
+    "english": "English",
+    "korean": "Korean",
+    "rights": "© All rights reserved"
+  },
   "NotFound": {
     "title": "Page not found",
     "message": "We are sorry! The page you are looking for doesn't exist.",

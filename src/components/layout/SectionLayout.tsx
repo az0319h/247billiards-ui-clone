@@ -13,7 +13,7 @@ export default function SectionLayout({
 }: SectionLayoutProps) {
   return (
     <div
-      className={`max-w-420 mx-auto px-5 md:px-7.5 overflow-hidden ${paddingTop ?? ""} ${paddingBottom}`}
+      className={`max-w-420 mx-auto w-full px-5 md:px-7.5 overflow-hidden ${paddingTop ?? ""} ${paddingBottom}`}
     >
       {children}
     </div>

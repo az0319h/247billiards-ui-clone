@@ -104,6 +104,22 @@
     "projects": "프로젝트",
     "languageSwitcher": "언어 변경"
   },
+  "Footer": {
+    "brand": "247 빌리어즈",
+    "address1": "Maisstraße 12/2,",
+    "address2": "4600 Wels, 오스트리아",
+    "address3": "오스트리아",
+    "contact": "문의",
+    "phone": "+12 345 155 66 999",
+    "email": "example@example.com",
+    "legal": "법적 고지",
+    "imprint": "회사 정보",
+    "privacy": "개인정보 처리방침",
+    "language": "언어",
+    "english": "영어",
+    "korean": "한국어",
+    "rights": "© 모든 권리 보유"
+  },
   "NotFound": {
     "title": "페이지를 찾을 수 없습니다",
     "message": "죄송합니다! 요청하신 페이지를 찾을 수 없습니다.",

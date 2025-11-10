@@ -35,6 +35,7 @@
   --color-line-100: #4b4b4b;
   --color-line-200: #4e4e4e66;
   --color-line-300: #9c9c9c;
+  --color-line-400: #ffffff40;
 
   /* === hover === */
   --color-hover-100: #cfcfcf;
@@ -339,6 +340,15 @@
   font-size: 2rem;
   line-height: 2.5rem; /* 40px */
   font-weight: 400;
+}
+
+/* 세로 스크롤바만 숨김 */
+.scrollbar-y-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-y-none::-webkit-scrollbar:vertical {
+  display: none;
 }
 
 /* Default */
