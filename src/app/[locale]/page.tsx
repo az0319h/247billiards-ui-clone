@@ -1,3 +1,4 @@
+import FooterMarquee from "@/components/common/FooterMarquee";
 import SectionLine from "@/components/common/SectionLine";
 import SectionLayout from "@/components/layout/SectionLayout";
 import AboutUsSection from "@/components/pages/home/AboutUsSection";
@@ -32,6 +33,7 @@ export default async function Home() {
       <StudioCollabShowcaseSection />
       <SectionLine height={0} />
       <LatestNewsSection />
+      <FooterMarquee />
     </>
   );
 }

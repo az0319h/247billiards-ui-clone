@@ -7,6 +7,7 @@ import { Metadata } from "next";
 import { pretendard } from "../fonts/fonts";
 import Header from "@/components/layout/Header";
 import SplashProvider from "@/providers/SplashProvider";
+import Footer from "@/components/layout/Footer";
 
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations("RootMetaData");
@@ -36,12 +37,15 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <body
-        className={`w-full min-h-screen bg-gray-100  ${pretendard.className}`}
+        className={`w-full min-h-screen bg-gray-100 relative ${pretendard.className}`}
       >
         <SplashProvider>
           <NextIntlClientProvider locale={locale} messages={messages}>
             <Header />
-            <main className="md:pt-[16vh] pt-25">{children}</main>
+            <main className="bg-gray-100 md:pt-[16vh] pt-25 relative z-10">
+              {children}
+            </main>
+            <Footer />
           </NextIntlClientProvider>
         </SplashProvider>
       </body>
