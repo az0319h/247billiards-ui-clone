@@ -2,6 +2,30 @@
   "RootMetaData": {
     "description": "이 프로젝트는 247 웹사이트를 참고하여 만든 비상업적 클론 포트폴리오입니다. 하이엔드 당구대, 핑퐁 테이블, 프리미엄 덤벨 상품 경험을 재현하며 고급 가구 UI 스타일과 Next.js + Tailwind CSS 기반 인터랙티브 웹 개발 역량을 보여주기 위한 목적입니다. 원본 브랜드의 모든 권리는 해당 브랜드에 있습니다."
   },
+  "ContactPage": {
+    "title": "문의하기",
+    "description": "견적이 필요하시거나 추가 정보가 궁금하시다면 언제든지 문의해 주세요. 최대한 빠르게 답변을 드리겠습니다.",
+    "form": {
+      "firstName": "이름*",
+      "lastName": "성*",
+      "email": "이메일*",
+      "phone": "전화번호",
+      "message": "문의 내용",
+      "submit": "문의 보내기"
+    },
+    "sidebar": {
+      "socialTitle": "소셜 채널",
+      "generalTitle": "일반 문의",
+      "phone": "+12 345 155 66 999",
+      "email": "example@example.com",
+      "social": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "x": "X",
+        "pinterest": "Pinterest"
+      }
+    }
+  },
   "HomePage": {
     "title": "247 클론 프로젝트에 오신 것을 환영합니다",
     "hero": {

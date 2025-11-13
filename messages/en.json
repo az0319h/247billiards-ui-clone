@@ -2,6 +2,32 @@
   "RootMetaData": {
     "description": "This project is a non-commercial clone portfolio inspired by the 247 website. It recreates the experience of high-end billiard tables, ping-pong tables, and premium dumbbells to demonstrate luxury furniture-style UI and interactive web development skills using Next.js and Tailwind CSS. All rights to the original brand belong to the brand owner."
   },
+
+  "ContactPage": {
+    "title": "Inquiry",
+    "description": "Contact us for a price quote or if you require further information. Our team will respond shortly.",
+    "form": {
+      "firstName": "First Name*",
+      "lastName": "Last Name*",
+      "email": "E-Mail*",
+      "phone": "Phone",
+      "message": "Your Message",
+      "submit": "Submit"
+    },
+    "sidebar": {
+      "socialTitle": "SOCIAL",
+      "generalTitle": "GENERAL INQUIRIES",
+      "phone": "+12 345 155 66 999",
+      "email": "example@example.com",
+      "social": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "x": "X",
+        "pinterest": "Pinterest"
+      }
+    }
+  },
+
   "HomePage": {
     "title": "Welcome to the 247 Clone Project",
     "hero": {
@@ -21,6 +47,7 @@
         "Made in Austria"
       ]
     },
+
     "testimonials": {
       "title": "Customer Testimonials",
       "items": [
