@@ -1,5 +1,5 @@
 "use client";
-import { Link } from "@/i18n/routing";
+import { Link, usePathname } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import logo from "@/assets/logo.svg";
@@ -10,6 +10,7 @@ import { useEffect, useState } from "react";
 
 export default function Header() {
   const t = useTranslations("Header");
+  const pathname = usePathname();
 
   const [isOpen, setIsOpen] = useState(false);
 
@@ -48,16 +49,39 @@ export default function Header() {
           >
             <ul className="flex items-center gap-2">
               <li>
-                <Link href="/collection">{t("collection")}</Link>
+                <Link
+                  href="/collection"
+                  className={pathname === "/collection" ? "line-through" : ""}
+                >
+                  {t("collection")}
+                </Link>
               </li>
+
               <li>
-                <Link href="/about">{t("about")}</Link>
+                <Link
+                  href="/about"
+                  className={pathname === "/about" ? "line-through" : ""}
+                >
+                  {t("about")}
+                </Link>
               </li>
+
               <li>
-                <Link href="/contact">{t("contact")}</Link>
+                <Link
+                  href="/contact"
+                  className={pathname === "/contact" ? "line-through" : ""}
+                >
+                  {t("contact")}
+                </Link>
               </li>
+
               <li>
-                <Link href="/projects">{t("projects")}</Link>
+                <Link
+                  href="/projects"
+                  className={pathname === "/projects" ? "line-through" : ""}
+                >
+                  {t("projects")}
+                </Link>
               </li>
             </ul>
 

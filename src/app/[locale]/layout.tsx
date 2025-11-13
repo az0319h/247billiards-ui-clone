@@ -42,7 +42,7 @@ export default async function RootLayout({
         <SplashProvider>
           <NextIntlClientProvider locale={locale} messages={messages}>
             <Header />
-            <main className="bg-gray-100 md:pt-[16vh] pt-25 relative z-10">
+            <main className=" bg-gray-100 md:pt-[16vh] pt-25 relative z-10">
               {children}
             </main>
             <Footer />
