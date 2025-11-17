@@ -119,6 +119,30 @@
       "cta": "더 보기"
     }
   },
+  "CollectionPage": {
+    "title": "컬렉션",
+    "intro": {
+      "eyebrow": "럭셔리한 디자인과 프리미엄 퀄리티의 조화.",
+      "headline": "당신의 공간에 자연스럽게 스며드는 디자이너 피스를 만나보세요."
+    },
+    "items": {
+      "billiards": {
+        "title": "새로운 차원의 빌리아드 테이블.",
+        "subtitle": "디자인 풀 테이블",
+        "tag": "빌리아드"
+      },
+      "pingPong": {
+        "title": "다시 정의된 테이블 테니스.",
+        "subtitle": "디자인 핑퐁 테이블",
+        "tag": "테이블 테니스"
+      },
+      "dumbbells": {
+        "title": "스타일과 함께하는 워크아웃.",
+        "subtitle": "디자인 덤벨 세트",
+        "tag": "워크아웃"
+      }
+    }
+  },
   "Header": {
     "logoAlt": "사이트 로고",
     "menuOpen": "메뉴 열기",
