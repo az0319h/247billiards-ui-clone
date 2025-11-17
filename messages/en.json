@@ -134,6 +134,30 @@
       "cta": "More"
     }
   },
+  "CollectionPage": {
+    "title": "Collection",
+    "intro": {
+      "eyebrow": "Luxurious design meets premium quality.",
+      "headline": "Discover our designer pieces that blend seamlessly into your home."
+    },
+    "items": {
+      "billiards": {
+        "title": "A new dimension in billiards.",
+        "subtitle": "The Design Pool Table",
+        "tag": "Billiards"
+      },
+      "pingPong": {
+        "title": "Table Tennis — redefined.",
+        "subtitle": "The Design Ping-Pong Table",
+        "tag": "Table Tennis"
+      },
+      "dumbbells": {
+        "title": "Workout — with Style",
+        "subtitle": "The Design Dumbbell Set",
+        "tag": "Workout"
+      }
+    }
+  },
   "Header": {
     "logoAlt": "Site Logo",
     "menuOpen": "Open Menu",
