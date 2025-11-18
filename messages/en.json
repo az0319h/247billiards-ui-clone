@@ -28,6 +28,17 @@
     }
   },
 
+  "AboutPage": {
+    "hero": {
+      "title": "About<break></break> —us",
+      "highlight": "Crafting<break></break> exclusivity"
+    },
+    "story": {
+      "label": "The Beginning",
+      "body": "247 Billiards was founded in 2012 by Michael Steininger. The basis for today’s know-how is the many years of experience in the family business Steininger Metallbearbeitung, founded in 1975. This knowledge and passion for exclusive design is reflected in our lifestyle products."
+    }
+  },
+
   "HomePage": {
     "title": "Welcome to the 247 Clone Project",
     "hero": {
@@ -126,7 +137,7 @@
     "studioCollabShowcase": {
       "headline": "Designed with Studio F. A. Porsche",
       "productTitle": "PORSCHE DESIGN POOL TABLE",
-      "description": "Our first product was created in collaboration with <highlight>Studio F. A. Porsche</highlight> in Zell am See, Austria — embodying the studio’s purist and timeless design philosophy.",
+      "description": "Our first product was created in collaboration with <highlight>Studio F.A. Porsche</highlight> in Zell am See, Austria — embodying the studio's purist and timeless design philosophy.",
       "cta": "Find Out More"
     },
     "latestNews": {
