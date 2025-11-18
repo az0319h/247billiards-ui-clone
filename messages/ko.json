@@ -26,6 +26,18 @@
       }
     }
   },
+
+  "AboutPage": {
+    "hero": {
+      "title": "우리의<break></break> — 관하여",
+      "highlight": "독보적인<break></break> 가치를 빚다"
+    },
+    "story": {
+      "label": "시작점",
+      "body": "247 Billiards는 2012년 Michael Steininger에 의해 설립되었습니다. 오늘날의 노하우는 1975년에 설립된 가족 사업인 Steininger Metallbearbeitung에서 쌓아 온 오랜 경험을 기반으로 합니다. 이러한 기술과 독보적인 디자인에 대한 열정은 우리의 라이프스타일 제품 전반에 고스란히 담겨 있습니다."
+    }
+  },
+
   "HomePage": {
     "title": "247 클론 프로젝트에 오신 것을 환영합니다",
     "hero": {
@@ -111,7 +123,7 @@
     "studioCollabShowcase": {
       "headline": "Studio F. A. Porsche와의 협업 디자인",
       "productTitle": "포르쉐 디자인 당구대",
-      "description": "우리의 첫 번째 제품은 오스트리아 젤 암 제이에 위치한 <highlight>Studio F. A. Porsche</highlight>와 협업하여 제작되었습니다. 이 제품은 스튜디오의 순수하고 시대를 초월한 디자인 철학을 완벽히 구현합니다.",
+      "description": "우리의 첫 번째 제품은 오스트리아 젤 암 제이에 위치한 <highlight>Studio F.A. Porsche</highlight> 와 협업하여 제작되었습니다. 이 제품은 스튜디오의 순수하고 시대를 초월한 디자인 철학을 완벽히 구현합니다.",
       "cta": "자세히 보기"
     },
     "latestNews": {
