@@ -40,6 +40,28 @@
     "rethinkingHero": {
       "headline": "Re—thinking the norm",
       "description": "We constantly challenge the status quo to transform the old familiar into something new and unique."
+    },
+    "accordionSection": {
+      "items": [
+        {
+          "title": "Billiard",
+          "subTitle": "Porsche Design Pool Table",
+          "content": "For the design of our first product we turned to the renowned Porsche Design Studio in Zell am See, Austria. The design language was to correspond to the purist, exclusive design philosophy of Porsche Design. This enabled us to quickly win over customers who have the highest standards of design and quality.",
+          "src": "/collections/collection1-banner.jpg"
+        },
+        {
+          "title": "Table Tennis",
+          "subTitle": "Premium Ping-Pong Table",
+          "content": "The increasing demand for table tennis equipment with a similarly purist, modern design has encouraged us to add our unique table tennis table to our range in 2021. The perfect addition to our premium lifestyle products.",
+          "src": "/collections/collection2-banner.jpg"
+        },
+        {
+          "title": "Workout",
+          "subTitle": "Exclusive Dumbbell-Set",
+          "content": "Exclusive private home gyms, hotel and yacht gyms are becoming increasingly popular with discerning customers — the demand for high-quality training equipment is growing. The product portfolio was therefore expanded in 2020 to include an exclusive dumbbell set with a matching dumbbell rack.",
+          "src": "/collections/collection3-banner.jpg"
+        }
+      ]
     }
   },
 
