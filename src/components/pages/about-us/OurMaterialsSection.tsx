@@ -2,6 +2,12 @@ import SectionLayout from "@/components/layout/SectionLayout";
 import MaterialItem from "./MaterialItem";
 import { getTranslations } from "next-intl/server";
 
+export interface MaterialItemProps {
+  title: string;
+  content: string;
+  src: string;
+}
+
 export default async function OurMaterialsSection() {
   const t = await getTranslations("AboutPage.materialsSection");
   const materialItems = t.raw("items");
@@ -13,7 +19,7 @@ export default async function OurMaterialsSection() {
           Our Meterials
         </h2>
         <div className="flex flex-col gap-8 sm:gap-12 lg:col-start-4 lg:col-end-9">
-          {materialItems.map((item, index) => (
+          {materialItems.map((item: MaterialItemProps, index: number) => (
             <MaterialItem key={index} {...item} />
           ))}
         </div>
