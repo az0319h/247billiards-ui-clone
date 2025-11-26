@@ -62,6 +62,26 @@
           "src": "/collections/collection3-banner.jpg"
         }
       ]
+    },
+    "materialsSection": {
+      "title": "Our Materials",
+      "items": [
+        {
+          "title": "Selected Metals",
+          "content": "The highly precise processing of metals is one of the core competencies of 247Billiards. That is why the structure of our game tables is mainly made of aluminum and high-quality stainless steel. Due to the long experience in metalworking, maximum precision and processing quality can be guaranteed.",
+          "src": "/about/metals.jpg"
+        },
+        {
+          "title": "Unique Corian",
+          "content": "Worldwide unique is the use of the high-end material Corian for the surface of the billiard table. The thermal deformation of Corian and the silky mate appearance create a dynamic and exquisite design aesthetic. In cooperation with the Corian manufacturer HASENKOPF in Mehring, Germany, we create design billiard tables, which are absolutely unique due to the materiality and its processing.",
+          "src": "/about/corian.jpg"
+        },
+        {
+          "title": "Genuine Leather",
+          "content": "In addition to the design, the feel of a product is also an important feature to focus on. For this purpose, the dumbbell handles are covered with the finest genuine leather, which provides a pleasant, velvety-soft grip feeling. The ball pockets of the billiard table are also made of leather not only because of the beautiful appearance – it also ensures a soft, noise-absorbing sinking of the balls in the pockets.",
+          "src": "/about/genuine_leanther.jpg"
+        }
+      ]
     }
   },
 
