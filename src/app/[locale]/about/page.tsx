@@ -1,7 +1,9 @@
+import FooterMarquee from "@/components/common/FooterMarquee";
 import SectionLine from "@/components/common/SectionLine";
 import SectionOverflow from "@/components/common/SectionOverflow";
 import AboutHeroSection from "@/components/pages/about-us/AboutHeroSection";
 import AccordionSection from "@/components/pages/about-us/AccordionSection";
+import DesignProcessSection from "@/components/pages/about-us/DesignProcessSection";
 import OurMaterialsSection from "@/components/pages/about-us/OurMaterialsSection";
 import ReThinkingHeroSection from "@/components/pages/about-us/ReThinkingHeroSection";
 import ScrollHorizontalTitle from "@/components/pages/about-us/ScrollHorizontalTitle";
@@ -20,6 +22,10 @@ export default function AboutPage() {
       <ReThinkingHeroSection />
       <AccordionSection />
       <OurMaterialsSection />
+      <SectionLine />
+      <DesignProcessSection />
+      <SectionLine height={0} />
+      <FooterMarquee />
     </>
   );
 }
