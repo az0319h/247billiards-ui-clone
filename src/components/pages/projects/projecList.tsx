@@ -3,7 +3,7 @@ import ProjectItem from "./projectItem";
 import { getTranslations } from "next-intl/server";
 
 export interface ProjectData {
-  id: number;
+  id: string;
   title: string;
   subTitle: string;
   date: string;

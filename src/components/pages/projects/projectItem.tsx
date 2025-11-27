@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 interface ProjectItemProps {
-  id: number;
+  id: string;
   title: string;
   date: string;
   src: string;
@@ -15,7 +15,7 @@ export default function ProjectItem({
   src,
 }: ProjectItemProps) {
   return (
-    <Link href={`/projects/${id}`} className="block min-h-125 group  ">
+    <Link href={`/projects/${Number(id)}`} className="block min-h-125 group  ">
       <div className="group-hover:-translate-y-2.5 duration-500 ease-in-out">
         <div className="relative">
           <div
