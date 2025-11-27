@@ -207,6 +207,7 @@
   "ProjectsPage": {
     "title": "주목받는 프로젝트",
     "description": "247Billiards의 독점 프로젝트, 글로벌 전시회, 그리고 브랜드 뉴스를 만나보세요.",
+    "randomProjectTitle": "다른 프로젝트",
     "projects": [
       {
         "id": "0",

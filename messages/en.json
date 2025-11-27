@@ -221,6 +221,7 @@
   "ProjectsPage": {
     "title": "In The Spotlight",
     "description": "Discover our exclusive projects, global exhibitions and news about our brand.",
+    "randomProjectTitle": "Another Projects",
     "projects": [
       {
         "id": "0",
