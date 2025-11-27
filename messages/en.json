@@ -223,6 +223,7 @@
     "description": "Discover our exclusive projects, global exhibitions and news about our brand.",
     "projects": [
       {
+        "id": "0",
         "title": "Los Angeles luxury dumbbell set project",
         "subTitle": "Los Angeles Client Exclusive Dumbbell Set",
         "src": "/projects/project_image1.jpg",
@@ -232,6 +233,7 @@
         "details": "Penthouse, private residence, home gym"
       },
       {
+        "id": "1",
         "title": "Luxury Pool Table Monaco Penthouse",
         "subTitle": "Luxury 247 Pool Table for Monaco Penthouse",
         "src": "/projects/project_image2.jpg",
@@ -241,6 +243,7 @@
         "details": "Penthouse, private residence"
       },
       {
+        "id": "2",
         "title": "Porsche Design pool table for Luxemburg project",
         "subTitle": "Design Pool Table for client in Luxembourg",
         "src": "/projects/project_image3.jpg",
@@ -248,6 +251,7 @@
         "content": "A very special project for our customer in Luxembourg. We have furnished an exclusive Porsche Design pool table for a wonderful and exclusive private residence. The color of the pool table is modern designer white with a red cloth cover. This was a perfect match for the contemporary and modern interior of this luxury property. With this project, 247Billiards was able to integrate another exclusive pool table in a wonderful setting."
       },
       {
+        "id": "3",
         "title": "247 pool table for luxury residence in Los Angeles",
         "subTitle": "Porsche Design pool table Los Angeles",
         "src": "/projects/project_image4.jpg",
@@ -255,6 +259,7 @@
         "content": "This project took us to a special customer in Los Angeles, California in the USA. Our 247 pool table was selected by Porsche Design Studio for luxury interiors throughout the house and for the entertainment area. The colors of the entire interior were very bright and so was the pool table in Glacier White selected with an equally bright cloth color in the color ecru. In summary, one of our most exclusive projects and we are proud to have set up our pool table in such a contemporary setting as this luxury designer villa."
       },
       {
+        "id": "4",
         "title": "Toronto exclusive billiard table project",
         "subTitle": "Design pool table for Toronto project",
         "src": "/projects/project_image5.jpg",
@@ -262,6 +267,7 @@
         "content": "For this exclusive project, our Porsche Design pool table was ordered in a two-tone version. In keeping with the rest of the interior of this luxury home in Toronto, Canada, Glacier White with Deep Nocturne (black) was chosen for the exterior color. Plus a Simonis billiard towel in purple. An extravagant pool table that is as unique as our customers."
       },
       {
+        "id": "5",
         "title": "London Penthouse luxury table tennis table",
         "subTitle": "Designer table tennis table for London Penthouse",
         "src": "/projects/project_image6.jpg",
