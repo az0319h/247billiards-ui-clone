@@ -1,6 +1,7 @@
 import FooterMarquee from "@/components/common/FooterMarquee";
 import SectionLayout from "@/components/layout/SectionLayout";
 import { ProjectData } from "@/components/pages/projects/projecList";
+import RandomProjectList from "@/components/pages/projects/RandomProjectList";
 import { getTranslations } from "next-intl/server";
 import Image from "next/image";
 
@@ -51,6 +52,7 @@ export default async function ProjectDetailPage({
           </div>
         </div>
       </SectionLayout>
+      <RandomProjectList id={id} />
       <FooterMarquee />
     </>
   );
