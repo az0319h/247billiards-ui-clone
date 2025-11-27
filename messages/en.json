@@ -218,6 +218,58 @@
       }
     }
   },
+  "ProjectsPage": {
+    "title": "In The Spotlight",
+    "description": "Discover our exclusive projects, global exhibitions and news about our brand.",
+    "projects": [
+      {
+        "title": "Los Angeles luxury dumbbell set project",
+        "subTitle": "Los Angeles Client Exclusive Dumbbell Set",
+        "src": "/projects/project_image1.jpg",
+        "date": "August 4, 2024",
+        "content": "For his exclusive home gym, our customer wanted a very special eye-catcher and opted for our unique weight rack. Made of oak, this offers space for 6 pairs of dumbbells weighing 2-12 kg. The weights are made of stainless steel and the handles are covered with leather for a unique soft grip. A special designer piece for exclusive home gyms.",
+        "location": "Los Angeles, United States",
+        "details": "Penthouse, private residence, home gym"
+      },
+      {
+        "title": "Luxury Pool Table Monaco Penthouse",
+        "subTitle": "Luxury 247 Pool Table for Monaco Penthouse",
+        "src": "/projects/project_image2.jpg",
+        "date": "March 7, 2025",
+        "content": "For our customer in Monaco, we were allowed to produce an 8-foot luxury pool table in the Corian color Deep Nocturne. The cloth color in a modern Tournament Blue. The colors of the Porsche Design pool table should match the colors of the rest of the exclusive and modern interior of the entire penthouse. The customer can now look forward to many wonderful and exciting hours on this luxurious pool table. A very successful project for 247Billiards and another exclusive pool table for our customers all over the world.",
+        "location": "Monaco, Cote d'Azur",
+        "details": "Penthouse, private residence"
+      },
+      {
+        "title": "Porsche Design pool table for Luxemburg project",
+        "subTitle": "Design Pool Table for client in Luxembourg",
+        "src": "/projects/project_image3.jpg",
+        "date": "October 4, 2023",
+        "content": "A very special project for our customer in Luxembourg. We have furnished an exclusive Porsche Design pool table for a wonderful and exclusive private residence. The color of the pool table is modern designer white with a red cloth cover. This was a perfect match for the contemporary and modern interior of this luxury property. With this project, 247Billiards was able to integrate another exclusive pool table in a wonderful setting."
+      },
+      {
+        "title": "247 pool table for luxury residence in Los Angeles",
+        "subTitle": "Porsche Design pool table Los Angeles",
+        "src": "/projects/project_image4.jpg",
+        "date": "December 22, 2021",
+        "content": "This project took us to a special customer in Los Angeles, California in the USA. Our 247 pool table was selected by Porsche Design Studio for luxury interiors throughout the house and for the entertainment area. The colors of the entire interior were very bright and so was the pool table in Glacier White selected with an equally bright cloth color in the color ecru. In summary, one of our most exclusive projects and we are proud to have set up our pool table in such a contemporary setting as this luxury designer villa."
+      },
+      {
+        "title": "Toronto exclusive billiard table project",
+        "subTitle": "Design pool table for Toronto project",
+        "src": "/projects/project_image5.jpg",
+        "date": "October 2, 2019",
+        "content": "For this exclusive project, our Porsche Design pool table was ordered in a two-tone version. In keeping with the rest of the interior of this luxury home in Toronto, Canada, Glacier White with Deep Nocturne (black) was chosen for the exterior color. Plus a Simonis billiard towel in purple. An extravagant pool table that is as unique as our customers."
+      },
+      {
+        "title": "London Penthouse luxury table tennis table",
+        "subTitle": "Designer table tennis table for London Penthouse",
+        "src": "/projects/project_image6.jpg",
+        "date": "May 10, 2023",
+        "content": "A very special project took us to London. A customer ordered our luxury table tennis table for his particularly exclusive penthouse in the middle of the City of London. The table tennis table was ordered in oak, which was particularly suited to the rest of the interior of this luxury penthouse. Exciting games on an exclusive table tennis table are now also provided for our customers in London."
+      }
+    ]
+  },
   "Header": {
     "logoAlt": "Site Logo",
     "menuOpen": "Open Menu",
