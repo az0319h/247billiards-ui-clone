@@ -4,6 +4,7 @@ import { ProjectData } from "@/components/pages/projects/projecList";
 import RandomProjectList from "@/components/pages/projects/RandomProjectList";
 import { getTranslations } from "next-intl/server";
 import Image from "next/image";
+import NotFoundPage from "../../not-found";
 
 export default async function ProjectDetailPage({
   params,
@@ -14,8 +15,15 @@ export default async function ProjectDetailPage({
   const t = await getTranslations("ProjectsPage");
   const projects = t.raw("projects");
 
-  const { title, subTitle, date, src, content, location, details } =
-    projects.find((project: ProjectData) => Number(project.id) === Number(id));
+  const project = projects.find(
+    (project: ProjectData) => Number(project.id) === Number(id),
+  );
+
+  if (!project) {
+    return <NotFoundPage />;
+  }
+
+  const { title, subTitle, date, src, content, location, details } = project;
 
   return (
     <>
